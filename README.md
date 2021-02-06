@@ -1,1 +1,1 @@
-# Salary-Predictor
+# SALARY-PREDICTOR-ML
